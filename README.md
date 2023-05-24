@@ -1,7 +1,5 @@
 # Stock Price Prediction Project
 
-![Stock Price Prediction](stock_price_image.png)
-
 Welcome to the Stock Price Prediction project! This repository contains the code and resources for predicting the future stock prices using various techniques such as ARIMA, ARCH, and LSTM models. The project utilizes historical data and different trends exhibited by stocks to forecast their future price movements. The data for this project is obtained directly from Yahoo Finance using their APIs.
 
 ## Table of Contents
